@@ -9,7 +9,7 @@ make -j$(nproc)
 sudo make install
 ```
 
-### SUCI computation on UE build and run instructions
+## SUCI computation on UE build and run instructions
 ```
 mkdir build
 cd build
