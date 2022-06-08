@@ -3,6 +3,7 @@
 
 ## wolfSSL build instructions
 ```
+cd wolfSSL
 ./autogen.sh
 ./configure --enable-curve25519 --enable-eccencrypt --enable-aesctr --enable-x963kdf --enable-compkey
 make -j$(nproc)
@@ -11,6 +12,7 @@ sudo make install
 
 ## SUCI computation on UE build and run instructions
 ```
+cd suci
 mkdir build
 cd build
 cmake ..

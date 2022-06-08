@@ -1,0 +1,4 @@
+container:
+  image: munfasil/wolfssl:latest
+task:
+  build_script: build.sh
