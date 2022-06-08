@@ -1,7 +1,6 @@
 # suci
 5G SUCI computation on UE using wolfSSL
 
-https://api.cirrus-ci.com/github/discreteworks/suci.svg
 [![Build Status](https://api.cirrus-ci.com/github/discreteworks/suci.svg)](https://cirrus-ci.com/github/discreteworks/suci)
 
 ## wolfSSL build instructions
