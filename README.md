@@ -27,3 +27,14 @@ export LD_LIBRARY_PATH="${LD_LIBRARY_PATH}:/usr/local/lib"
 ./suci
 
 ```
+
+## Docker
+```
+docker run -ti munfasil/wolfssl /bin/bash
+git clone https://github.com/discreteworks/suci.git
+cd suci
+mkdir build
+cd build
+cmake ..
+make -j$(nproc)
+```
