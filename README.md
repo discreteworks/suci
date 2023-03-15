@@ -1,5 +1,5 @@
 # suci
-5G SUCI computation on UE using wolfSSL
+5G SUCI computation on UE using wolfSSL . For moire information on suci please check this link. https://www.discreteworks.com/transform/2022/05/08/suci-computation-on-ue.html
 
 [![Build Status](https://api.cirrus-ci.com/github/discreteworks/suci.svg)](https://cirrus-ci.com/github/discreteworks/suci)
 
